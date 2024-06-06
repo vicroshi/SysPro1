@@ -6,3 +6,6 @@ compile_commands.json
 *.o
 *.d
 *.so
+progDelay
+jobCommander
+jobExecutorServer
