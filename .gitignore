@@ -1,0 +1,8 @@
+.idea
+.deps
+*.gz
+*.docx
+compile_commands.json
+*.o
+*.d
+*.so
